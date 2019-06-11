@@ -24,6 +24,6 @@ Application was further extended to inculde different game modes and game option
 
 ___
 *Click on image to see video*
-<a href="https://www.youtube.com/watch?v=psoqoqU6diE&t=125s" target="_blank"><img src="https://img.youtube.com/vi/psoqoqU6diE/maxresdefault.jpg" 
+<a href="https://www.youtube.com/watch?v=LixBo2-eKpQ" target="_blank"><img src="https://img.youtube.com/vi/psoqoqU6diE/maxresdefault.jpg" 
 alt="Three or more console dice game" width="920" height="517" border="0" /></a>
 
